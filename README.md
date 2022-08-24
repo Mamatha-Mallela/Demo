@@ -9,6 +9,8 @@ ___underscore bold italic words___<br>
 
 ## Adding new text
 
+
+
 ---
 
 > adding new paragraph
@@ -17,11 +19,17 @@ ___underscore bold italic words___<br>
 
 abc\_def\_ghi
 
+[ ] unchecked box
+
+[x] checked box
+
 ```
 def swap(x,y):
     print(x,y)
     return y
 ```
+
+
 
 * items
   * chocolates
