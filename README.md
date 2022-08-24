@@ -15,6 +15,7 @@ ___underscore bold italic words___<br>
 >> gasdhkb
 >>> aen
 
+abc\_def\_ghi
 
 ```
 def swap(x,y):
@@ -37,4 +38,6 @@ def swap(x,y):
 
 You can login to NW Missouri official site login by [click here](https://www.nwmissouri.edu/login/)
 
-You can see Northwest logo ![here](https://en.wikipedia.org/wiki/Northwest_Missouri_State_Bearcats)
+You can see Northwest logo
+
+![here](nw.jpg)
