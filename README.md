@@ -8,7 +8,9 @@ _underscore italic words_ <br>
 ___underscore bold italic words___<br>
 
 ## Adding new text
+
 ---
+
 > adding new paragraph
 >> gasdhkb
 >>> aen
@@ -31,3 +33,8 @@ def swap(x,y):
   1. sbdkvjf
   2. sbdifk
   3. shvd hj
+
+
+You can login to NW Missouri official site login by [click here](https://www.nwmissouri.edu/login/)
+
+You can see Northwest logo ![here](https://en.wikipedia.org/wiki/Northwest_Missouri_State_Bearcats)
