@@ -29,7 +29,7 @@ def swap(x,y):
     return y
 ```
 
-
+$f(x) = x^2$
 
 * items
   * chocolates
